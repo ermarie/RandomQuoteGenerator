@@ -1,0 +1,59 @@
+
+.font {
+   font-family: 'Arima Madurai', cursive;
+   color: white;
+    }
+.container {
+  background-color: #6495ED;
+  border-color: blue;
+  border-style: double;
+  width: 1000px;
+  height: 375px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+.quote-box {
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+}
+.quote{
+  margin: 40px;
+  height: 40px;
+  font-size: 120%;
+}
+.author {
+  text-align: right;
+  margin: 20px;
+  height: 20px;
+}
+h2 {
+  text-align: center;
+  font-size: 250%;
+  margin: 20px;
+  
+}
+.quote-button{
+  margin-top: 40px;
+    background-color: white;
+    border: 2px solid blue;
+    border-radius 10px;
+    color: #6495ED;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ }
+
+.btn {
+  width: 20vw;
+  height: 10vh;
+  font-size: 18px;
+  background-color: #fff;
+  border: 2px solid #000;
+  font-family: "Comic Sans MS", "Arial", sans-serif;
+}
